@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://zakarialomuscio.github.io/TP_SEO/</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.example.com/about.html</loc>
+    <loc>https://zakarialomuscio.github.io/TP_SEO/about.html</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.example.com/products.html</loc>
+    <loc>https://zakarialomuscio.github.io/TP_SEO/products.html</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.example.com/contact.html</loc>
+    <loc>https://zakarialomuscio.github.io/TP_SEO/contact.html</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
